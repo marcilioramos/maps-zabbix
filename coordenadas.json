@@ -1,0 +1,258 @@
+[
+    {
+        "key" : "SESCAB",
+        "name" : "SESCAB",
+        "latitude" : "-6.971377",
+        "longitude" : "-34.8389783"
+
+    }
+
+    {
+        "key" : "HOSPITAL",
+        "name" : "Hospital Municipal",
+        "latitude" : "-6.9724571",
+        "longitude" : "-34.8353636",
+
+    }
+
+    {
+        "key" : "POLICLINICA",
+        "name" : "Policlinica",
+        "latitude" : "-6.9806188",
+        "longitude" : "-34.8318662"
+
+    }
+
+    {
+        "key" : "ANEXO",
+        "name" : "Anexo da Policlinica",
+        "latitude" : "-6.9784371",
+        "longitude" : "-34.8346699"
+
+    }
+
+    {
+        "key" : "ATENCAO",
+        "name" : "Atencao Basica",
+        "latitude" : "-6.9702469",
+        "longitude" : "-34.8359009"
+
+    }
+
+    {
+        "key" : "CENFISIO",
+        "name" : "Centro de Fisioterapia",
+        "latitude" : "-6.983168",
+        "longitude" : "-34.8292786"
+
+    }
+
+    {
+        "key" : "CAPS",
+        "name" : "CAPS II",
+        "latitude" : "-6.9858727",
+        "longitude" : "-34.8291033"
+
+    }
+
+    {
+        "key" : "CAPS AD",
+        "name" : "CAPS Alcool e drogas",
+        "latitude" : "-7.020778",
+        "longitude" : "-34.8321284"
+
+    }
+
+
+    {
+        "key" : "Almoxarifado",
+        "name" : "Almoxarifado",
+        "latitude" : "-7.0726458",
+        "longitude" : "-34.8507921"
+
+    }
+
+    {
+        "key" : "Zoonoses",
+        "name" : "Centro de Zoonoses",
+        "latitude" : "-7.0303233",
+        "longitude" : "-34.84515"
+
+    }
+
+    {
+        "key" : "INCLUSAO",
+        "name" : "Grupo de Inclusão",
+        "latitude" : "-6.983168",
+        "longitude" : "-34.8292786"
+
+    {
+        "key" : "PSF.CAMALAU",
+        "name" : "PSF de Camalau",
+        "latitude" : "-7.0724648",
+        "longitude" : "-34.9186446"
+
+    }
+
+    {
+        "key" : "PSF.CAMBOINHA",
+        "name" : "PSF Camboinha",
+        "latitude" : "-7.0078277",
+        "longitude" : "-34.8352187"
+
+    }
+    
+    {
+        "key" : "PSF.CENTRO",
+        "name" : "PSF Centro",
+        "latitude" : "-6.969846",
+        "longitude" : "-34.8346545"
+
+    }
+    
+    {
+        "key" : "PSF.INTERMARES",
+        "name" : "PSF Intermares",
+        "latitude" : "-7.0836367",
+        "longitude" : "-34.8565027"
+
+    }
+
+    {
+        "key" : "PSF.JACARE",
+        "name" : "PSF Jacaré",
+        "latitude" : "-7.036215",
+        "longitude" : "-34.8563363"
+
+    }
+
+    {
+        "key" : "PSF.JDATLANTICO",
+        "name" : "PSF Jd Atlantico",
+        "latitude" : "-7.0101925",
+        "longitude" : "-34.8357592"
+
+    }
+
+
+    {
+        "key" : "PSF.JDMANGUINHOS",
+        "name" : "PSF Jd Manguinhos",
+        "latitude" : "-7.0101442",
+        "longitude" : "-34.8510802"
+
+    }
+
+    {
+        "key" : "PSF.JARDINS",
+        "name" : "PSF Jardins",
+        "latitude" : "-7.0662041",
+        "longitude" : "-34.8500253"
+
+    }
+
+    {
+        "key" : "PSF.JOAOROBERTO",
+        "name" : "PSF João Roberto Borges",
+        "latitude" : "-6.974296",
+        "longitude" : "-34.8367327"
+
+    }
+
+    {
+        "key" : "PSF.MONTECASTELO",
+        "name" : "PSF Monte Castelo",
+        "latitude" : "-6.9755927",
+        "longitude" : "-34.8296424"
+
+    }
+
+    {
+        "key" : "PSF.OCEANIA",
+        "name" : "PSF Oceania",
+        "latitude" : "-7.0277602",
+        "longitude" : "-34.8465476"
+
+    }
+
+    {
+        "key" : "PSF.PALMEIRA",
+        "name" : "PSF Palmeira",
+        "latitude" : "-6.9760745",
+        "longitude" : "-34.8344499"
+
+    }
+
+    {
+        "key" : "PSF.POCO",
+        "name" : "PSF Poco",
+        "latitude" : "-7.0207809",
+        "longitude" : "-34.831347"
+
+    }
+
+    {
+        "key" : "PSF.PONTADEMATO",
+        "name" : "PSF Ponta de Mato",
+        "latitude" : "-6.9690318",
+        "longitude" : "-34.8298196"
+
+    }
+
+    {
+        "key" : "PSF.PORTALDOPOCO",
+        "name" : "PSF Portal do Poço",
+        "latitude" : "-7.0296343",
+        "longitude" : "-34.8416969"
+
+    }
+
+    {
+        "key" : "PSF.RECANTODOPOCO",
+        "name" : "PSF Recando do Poço",
+        "latitude" : "-7.018317",
+        "longitude" : "-34.8386177"
+
+    }
+
+    {
+        "key" : "PSF.RENASCERII",
+        "name" : "PSF Renascer II",
+        "latitude" : "-7.076194",
+        "longitude" : "-34.8500421"
+
+    }
+
+    {
+        "key" : "PSF.RENASCERGRANDE",
+        "name" : "PSF Renascer III-II/III",
+        "latitude" : "-7.0738413",
+        "longitude" : "-34.8561695"
+
+    }
+
+    {
+        "key" : "PSF.RENASCERIII-I",
+        "name" : "PSF Renascer III-I",
+        "latitude" : "-7.0717126",
+        "longitude" : "-34.8562835"
+
+    }
+
+    {
+        "key" : "PSF.SALINAS",
+        "name" : "PSF Salinas Ribamar",
+        "latitude" : "-7.0943298",
+        "longitude" : "-34.8569377"
+
+    }
+
+    {
+        "key" : "PSF.SIQUEIRACAMPOS",
+        "name" : "PSF Siqueira Campos",
+        "latitude" : "-6.9793917",
+        "longitude" : "-34.8339156"
+
+    }
+
+]
