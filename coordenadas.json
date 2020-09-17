@@ -64,7 +64,7 @@
     },
 
     {
-        "key" : "Almoxarifado",
+        "key" : "ALMOXARIFADO",
         "name" : "Almoxarifado",
         "latitude" : -7.0726458,
         "longitude" : -34.8507921
@@ -72,7 +72,7 @@
     },
 
     {
-        "key" : "Zoonoses",
+        "key" : "ZOONOSES",
         "name" : "Centro de Zoonoses",
         "latitude" : -7.0303233,
         "longitude" : -34.84515
@@ -114,8 +114,8 @@
     {
         "key" : "PSF.INTERMARES",
         "name" : "PSF Intermares",
-        "latitude" : -7.0836367,
-        "longitude" : -34.8565027
+        "latitude" : -7.0433624,
+        "longitude" : -34.8444375
 
     },
 
