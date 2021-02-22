@@ -254,6 +254,16 @@
         "latitude" : -6.9793917,
         "longitude" : -34.8339156
 
+    },
+    
+    {
+        "key" : "clinepa",
+        "name" : "Clinepa",
+        "latitude" : -7.122779,
+        "longitude" : -34.859086
+
     }
+    
+    
 
 ]
